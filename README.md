@@ -125,7 +125,3 @@ AUSMI.ipynb includes:
 - National Poll on Healthy Aging (NPHA)
 - UCI Machine Learning Repository
 - Kaggle NPHA projects
-
-## 📝 License
-
-MIT License (recommended). Create a LICENSE file if applying.
