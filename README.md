@@ -111,7 +111,6 @@ AUSMI.ipynb includes:
 - Heatmaps
 - Feature distribution plots
 - Confusion matrices
-- CV performance charts
 - Wilcoxon test matrices
 
 ## 🔭 Future Work
@@ -120,12 +119,6 @@ AUSMI.ipynb includes:
 - Explore stacking and deep learning models
 - Add SHAP/LIME explainability
 - Validate models on external datasets
-
-## 🔐 Security Note
-
-Never commit GitHub Personal Access Tokens (PATs).
-If exposed, revoke immediately:
-Settings → Developer Settings → Personal Access Tokens → Revoke
 
 ## 📚 References
 - United Nations — World Population Prospects 2019
